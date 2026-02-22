@@ -31,6 +31,7 @@ export function PostCard({
             src={coverImage}
             alt={title}
             fill
+            priority
             className="object-cover group-hover:scale-105 transition-transform duration-300"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent" />
