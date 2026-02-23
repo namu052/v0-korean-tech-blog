@@ -62,7 +62,7 @@ Explore the most common TypeScript mistakes and how to avoid them in your projec
     date: '2024-12-10',
     author: 'Sarah Lee',
     tags: ['TypeScript', 'Best Practices', 'Code Quality'],
-    coverImage: '/placeholder.jpg',
+    coverImage: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=400&fit=crop',
     readTime: 10,
   },
   {
@@ -99,7 +99,7 @@ Learn about tools and services to monitor your application's performance in prod
     date: '2024-12-05',
     author: 'Michael Park',
     tags: ['Performance', 'Web Dev', 'Optimization'],
-    coverImage: '/placeholder.jpg',
+    coverImage: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=400&fit=crop',
     readTime: 12,
   },
   {
